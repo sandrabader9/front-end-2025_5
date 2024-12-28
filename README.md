@@ -4,4 +4,4 @@
  |#|title|link|
  |--|--|--| 
  |1|instulation|[link](./classes/class1.md)
- |2|intro to html|
+ |2|intro to html|[link](./classes/class2.md)
