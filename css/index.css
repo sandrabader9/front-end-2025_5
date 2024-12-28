@@ -17,3 +17,16 @@ b{
     color :mediumpurple;
     text-align : right;
 }
+h6{
+    color:aliceblue;
+    background-color: teal;
+    font-size: 25px;
+    padding: 39px 20px;
+    border:2px dotted black;
+}
+sub{
+    color : #334fff;
+}
+sup{
+    color:rgb(30,60,90);
+}
