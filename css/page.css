@@ -1,0 +1,32 @@
+.home{
+background-color: antiquewhite;
+width: 20px;
+font-size: small;
+height:50px;
+ margin-left:200px;
+ margin-top:50px;
+ margin-right: 50px;
+border-radius:40px;
+float:right;
+}
+.picture{
+    width: 100px;
+    border-radius:50px
+}
+#navbar{
+    background-color: blue;
+border-radius:20px;
+padding: 20;
+}
+#nav2{
+    border-radius:20px;
+    background-color:bisque;
+
+}
+#navelist{
+    list-style:none;
+display:flex;
+}
+.item{
+    margin-right:30%;
+}
