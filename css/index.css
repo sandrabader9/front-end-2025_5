@@ -1,4 +1,4 @@
-i{
+/*i{
 color: cornflowerblue;
 background-color:springgreen;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -40,4 +40,16 @@ small{
     margin-top: 50px;
     margin-bottom: 35px;
     margin-left: 60px;
+
+}*/
+#gridcontainer{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color:dodgerblue;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.griditems{
+    text-align: center;
+    color:navy;
 }
